@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+ultralytics
+opencv-python
+python-multipart
+sqlalchemy
+psycopg2-binary
+python-jose
+passlib
+bcrypt
+streamlit
+python-dotenv
+pillow
+websockets
